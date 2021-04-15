@@ -1,0 +1,6 @@
+{
+    "email": "input#email",
+    "password": "input#pass",
+    "loginButton": "button[name=login]",
+    "post": "div[role=feed]>div"
+}

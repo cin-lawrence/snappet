@@ -1,0 +1,7 @@
+{
+    "origin": "https://www.facebook.com",
+    "headless": false,
+    "overridedPermissions": [
+        "notifications"
+    ]
+}
